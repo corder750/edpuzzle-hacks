@@ -1,2 +1,2 @@
 # edpuzzle-hacks
-bookmarke the code
+bookmark the code
